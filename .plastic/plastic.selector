@@ -1,0 +1,4 @@
+repository "492-Welcome-to-CPE-game@mankung2545@cloud"
+  path "/"
+    br "/main"
+    co "/main"
